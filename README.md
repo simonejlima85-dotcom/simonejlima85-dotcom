@@ -6,9 +6,15 @@ Canoas, RS · [LinkedIn](https://www.linkedin.com/in/simonejlima/)
 
 ## O que eu construo
 
-Automações que a equipe de mídia usa de verdade: métrica no chat, relatório semanal, monitoramento de grupo, extração de lista.
+Ferramentas que a equipe de mídia usa de verdade: métrica no chat, relatório sob demanda, monitoramento de grupo, extração de lista.
 
-O portfólio público está no repositório **[automacoes](https://github.com/simonejlima85-dotcom/automacoes)**:
+### Python
+
+- **[ads-reporter](https://github.com/simonejlima85-dotcom/ads-reporter)** — relatórios HTML/PDF de Meta e Google Ads (Windsor.ai + FastAPI). Cópia pública, sem contas reais. Construído com [Grok Build](https://grok.x.ai) (xAI).
+
+### n8n
+
+Portfólio de automações no repositório **[automacoes](https://github.com/simonejlima85-dotcom/automacoes)**:
 
 | Pack | O que resolve |
 |---|---|
@@ -19,7 +25,7 @@ O portfólio público está no repositório **[automacoes](https://github.com/si
 
 ## Stack
 
-n8n · Meta Ads · Google Ads · Windsor.ai · Python · Postgres · Looker Studio · GTM / GA
+n8n · Meta Ads · Google Ads · Windsor.ai · Python · FastAPI · Postgres · Looker Studio · GTM / GA
 
 ## Contato
 
